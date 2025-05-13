@@ -1,3 +1,3 @@
-👋 I'm interested in web development and UI/UX.
+👋 Hi! I'm a full-stack developer with an appreciation for UI/UX.
 
-🐈 Aside from that, I love beautiful things, linguistics, fashion, and dance. I'm also very fond of pigeons, cats, and rats. 
+🐈 Outside of programming, I love the arts, linguistics, fashion, and dance. I'm also very fond of pigeons, cats, and rats. 
